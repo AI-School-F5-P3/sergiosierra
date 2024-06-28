@@ -49,7 +49,7 @@ Clone the repository:
 
 Copy code
 git clone https://github.com/your-username/taxi-meter-application.git
-cd taxi-meter-application
+cd taxiter
 
 Copy code
 pip install -r requirements.txt
@@ -59,8 +59,11 @@ Run the application:
 Copy code
 python main.py
 
-
 Usage
-Login: Start the application and log in with your credentials.
+
+Login: Start the application and log in with:
+Sergio // passSergio
+Administrador//passAdministrador
+
 Navigate: Use the main menu to start a ride, change the user, or modify fare rates (if you are an admin).
 Generate Reports: Access the reporting functionality to view and analyze ride data.
